@@ -1,1 +1,1 @@
-# GymProject
+# BeastProject
